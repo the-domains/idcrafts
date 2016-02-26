@@ -1,0 +1,14 @@
+layout_spectrum: 0.8312916
+typography_spectrum: 0.2550985
+color:
+  lightness: 0.4170462
+  brandStrength: 0.7989059
+  saturation: 0.5556406
+  rhythmicContrast: 0.640195
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+name: IDcrafts
