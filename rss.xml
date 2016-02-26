@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[IDcrafts]]></title>
         <description><![CDATA[IDcrafts]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/idcrafts/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 26 Feb 2016 04:16:08 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 26 Feb 2016 04:16:10 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/idcrafts/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Lampshade]]></title>
+            <description><![CDATA[<article><h1>Lampshade</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/0471336041a578642c7e450962415a5920a50f38.png"></article>]]></description>
+            <link>https://thegrid.ai/idcrafts/lampshade/index.html</link>
+            <guid isPermaLink="false">8580ec8a-c02d-48dc-a246-203804bf46b5</guid>
+            <pubDate>Fri, 26 Feb 2016 04:15:37 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Shade made of used oil drum]]></title>
-            <description><![CDATA[<article><h1>Shade made of used oil drum</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/c71f5856-703e-4da5-8059-1952b2f4b881.png"></article>]]></description>
-            <link>undefinedshade-made-of-used-oil-drum/index.html</link>
+            <description><![CDATA[<article><h1>Shade made of used oil drum</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/3385ab94a544a471767220bb2aede7ad4d3aa642.png"></article>]]></description>
+            <link>https://thegrid.ai/idcrafts/shade-made-of-used-oil-drum/index.html</link>
             <guid isPermaLink="false">76300f85-d529-487e-ae89-36cc0a3bc618</guid>
             <pubDate>Fri, 26 Feb 2016 04:15:10 GMT</pubDate>
         </item>
