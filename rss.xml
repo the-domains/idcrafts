@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[IDcrafts]]></title>
+        <description><![CDATA[IDcrafts]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Fri, 26 Feb 2016 04:16:08 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Shade made of used oil drum]]></title>
+            <description><![CDATA[<article><h1>Shade made of used oil drum</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/c71f5856-703e-4da5-8059-1952b2f4b881.png"></article>]]></description>
+            <link>undefinedshade-made-of-used-oil-drum/index.html</link>
+            <guid isPermaLink="false">76300f85-d529-487e-ae89-36cc0a3bc618</guid>
+            <pubDate>Fri, 26 Feb 2016 04:15:10 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
